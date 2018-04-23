@@ -78,6 +78,12 @@
 
 # Монстры и звери
 
+**Skyrim Immersive Creatures**: один из самых первых и главных модов на монстров теперь и для SSE. Добавляет очень много разных врагов - от гоблинов разных племён до очень опасных даэдротов и драманов.
+
+[Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680)
+
+------
+
 **Моды от Михаила Романова**: большое количество совершенно разных монстров.
 
 [MihailMods](https://www.nexusmods.com/skyrimspecialedition/users/37834630/?tab=user+files)
