@@ -4,7 +4,7 @@
 + Появился важный баг-фикс SSE Engine Fixes: https://www.nexusmods.com/skyrimspecialedition/mods/17230
 + MO2 обновился до 2.1.3, включены правки, позволяющие логиниться и скачивать с Nexus после 8 мая - https://www.nexusmods.com/news/13481. https://github.com/Modorganizer2/modorganizer/releases
 + В ENB добавлена поддержка Subsurface Scattering (SSS), идёт чехарда обновления Борисом бинарников без изменения версии ENB: http://enbdev.com/download_mod_tesskyrimse.html
-+ официально портированы Immersive Weapons, Immersive College of Winterhold, Ultimate Combat, Pure Waters, OSA/OSex и ряд других популярных модов - следите за Nexus.
++ Официально портированы Immersive Weapons, Immersive College of Winterhold, Ultimate Combat, Pure Waters, OSA/OSex и ряд других популярных модов - следите за Nexus.
 
 ------
 
