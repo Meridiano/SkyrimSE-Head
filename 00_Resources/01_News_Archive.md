@@ -1,5 +1,10 @@
 # Архив новостей SSE-треда
 
+**14-й день Середины года** (14 июня 2018):
++ Для работы татуировок и NIOVHH требуется плагин - https://github.com/expired6978/SKSE64Plugins/releases, но не ставь hudextension оттуда в связке с другими худами (могут быть проблемы). Также для его верной работы на данный момент необходимо установить SSE Engine Fixes, иначе будут вылеты.
+
+------
+
 **20-й день Второго зерна** (20 мая 2018):
 + Появился важный баг-фикс SSE Engine Fixes: https://www.nexusmods.com/skyrimspecialedition/mods/17230
 + MO2 обновился до 2.1.3, включены правки, позволяющие логиниться и скачивать с Nexus после 8 мая - https://www.nexusmods.com/news/13481. https://github.com/Modorganizer2/modorganizer/releases
