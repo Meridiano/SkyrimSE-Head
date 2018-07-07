@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**7-й день Высокого солнца** (7 июля 2018):
++ Портированы "Customizable UI Replacer" и "(SKSE64) Havok Fix".
++ Создан "Stay At The System Page" - https://www.nexusmods.com/skyrimspecialedition/mods/18397 (механика клавиши ESC из Олдрима).
++ Запилены плащи на HDT-SMP - https://www.nexusmods.com/skyrimspecialedition/mods/17416.
++ Споры об ОП-посте не утихают ни на день.
+
+------
+
 **14-й день Середины года** (14 июня 2018):
 + Для работы татуировок и NIOVHH требуется плагин - https://github.com/expired6978/SKSE64Plugins/releases, но не ставь hudextension оттуда в связке с другими HUD-ами (могут быть проблемы). Также для его верной работы на данный момент необходимо установить SSE Engine Fixes, иначе будут вылеты.
 
