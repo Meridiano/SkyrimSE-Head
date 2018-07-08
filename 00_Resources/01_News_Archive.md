@@ -2,6 +2,7 @@
 
 **7-й день Высокого солнца** (7 июля 2018):
 + Портированы "Customizable UI Replacer" и "(SKSE64) Havok Fix".
++ Готовится к воссозданию "Enhanced Camera" - https://www.reddit.com/r/skyrimmods/comments/8v7wsl/the_time_has_come_im_putting_out_an_enhanced/e1sfu4g/
 + Создан "Stay At The System Page" - https://www.nexusmods.com/skyrimspecialedition/mods/18397 (механика клавиши ESC из Олдрима).
 + Запилены плащи на HDT-SMP - https://www.nexusmods.com/skyrimspecialedition/mods/17416.
 + Споры об ОП-посте не утихают ни на день.
