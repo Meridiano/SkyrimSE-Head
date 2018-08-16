@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**16-й день Последнего зерна** (16 августа 2018):
++ Официальный выход RaceMenu от Expired - https://www.nexusmods.com/skyrimspecialedition/mods/19080
++ Mod Organizer 2 обновился до версии 2.1.4, команда работает не покладая рук.
++ kryptopyr понемногу портирует свои моды - https://www.nexusmods.com/skyrimspecialedition/users/4291352?tab=user+files
++ Новая шапка треда, из которой по возможности убраны неточности и спорная информация.
+
+------
+
 **7-й день Высокого солнца** (7 июля 2018):
 + Портированы "Customizable UI Replacer" и "(SKSE64) Havok Fix".
 + Готовится к воссозданию "Enhanced Camera" - https://www.reddit.com/r/skyrimmods/comments/8v7wsl/the_time_has_come_im_putting_out_an_enhanced/e1sfu4g/
