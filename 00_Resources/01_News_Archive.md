@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**8-й день Начала морозов** (8 октября 2018):
++ Игра обновилась до версии 1.5.53, SKSE64 - до версии 2.0.9. Плагины постепенно перепиливаются.
++ Новый контент в Creation Club, качественный, но в основном ненужный.
++ Вышел SSE CreationKit Fixes - https://www.nexusmods.com/skyrimspecialedition/mods/20061 - для любителей модить самому.
++ Для пользователей SkyUI - Flashing Savegames Fix - https://www.nexusmods.com/skyrimspecialedition/mods/20406
+
+------
+
 **14-й день Огня очага** (14 сентября 2018):
 + MO2 обновился до 2.1.5, а также обзавёлся версией 2.2+, в которой можно увидеть перезапись архивов (пока только увидеть).
 + More Informative Console - https://www.nexusmods.com/skyrimspecialedition/mods/19250
