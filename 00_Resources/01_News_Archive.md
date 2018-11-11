@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**6-й день Заката солнца** (6 ноября 2018):
++ Обновление SKSE64 до версии 2.0.10 (версия игры та же - 1.5.53).
++ Enchantment Reload Fix в виде SKSE64-плагина - https://www.nexusmods.com/skyrimspecialedition/mods/21055
++ Рабочий Quick Loot - https://www.nexusmods.com/skyrimspecialedition/mods/21085
++ FreeFlyCam версии 12 - http://enbseries.enbdev.com/forum/viewtopic.php?f=6&t=5386&start=130#p82365
+
+------
+
 **8-й день Начала морозов** (8 октября 2018):
 + Игра обновилась до версии 1.5.53, SKSE64 - до версии 2.0.9. Плагины постепенно перепиливаются.
 + Новый контент в Creation Club, качественный, но в основном ненужный.
