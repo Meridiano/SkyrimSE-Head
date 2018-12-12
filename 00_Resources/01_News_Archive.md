@@ -3,7 +3,7 @@
 **11-й день Вечерней звезды** (11 декабря 2018):
 + Обновление игры до версии 1.5.62, SKSE64 - до версии 2.0.12.
 + meh321 начал портировать свои SKSE-плагины, основываясь на собственном .NET Script Framework - https://www.nexusmods.com/skyrimspecialedition/mods/21294
-+ expired6978 начал работу над скульптором RaceMenu
++ expired6978 начал работу над скульптором RaceMenu.
 + Misc Fixes SSE - дополнительные мелкие исправления движка от Sniffles - https://www.nexusmods.com/skyrimspecialedition/mods/21635
 
 ------
