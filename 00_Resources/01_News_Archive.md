@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**11-й день Вечерней звезды** (11 декабря 2018):
++ Обновление игры до версии 1.5.62, SKSE64 - до версии 2.0.12.
++ meh321 начал портировать свои SKSE-плагины, основываясь на собственном .NET Script Framework - https://www.nexusmods.com/skyrimspecialedition/mods/21294
++ expired6978 начал работу над скульптором RaceMenu
++ Misc Fixes SSE - дополнительные мелкие исправления движка от Sniffles - https://www.nexusmods.com/skyrimspecialedition/mods/21635
+
+------
+
 **6-й день Заката солнца** (6 ноября 2018):
 + Обновление SKSE64 до версии 2.0.10 (версия игры та же - 1.5.53).
 + Enchantment Reload Fix в виде SKSE64-плагина - https://www.nexusmods.com/skyrimspecialedition/mods/21055
