@@ -1,5 +1,11 @@
 # Архив новостей SSE-треда
 
+**8-й день Утренней звезды** (8 января 2019):
++ Первый адекватный мод на вид тела от первого лица - https://www.nexusmods.com/skyrimspecialedition/mods/22306 - IFPV от meh321. Активно дорабатывается.
++ Исправлен баг с отражением света от кожи - включён в ENBSeries версии 0.370 и выше. Есть Non-ENB версия от aers - https://www.nexusmods.com/skyrimspecialedition/mods/22423
+
+------
+
 **11-й день Вечерней звезды** (11 декабря 2018):
 + Обновление игры до версии 1.5.62, SKSE64 - до версии 2.0.12.
 + meh321 начал портировать свои SKSE-плагины, основываясь на собственном .NET Script Framework - https://www.nexusmods.com/skyrimspecialedition/mods/21294
