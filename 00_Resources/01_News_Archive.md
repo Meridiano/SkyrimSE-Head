@@ -1,5 +1,10 @@
 # Архив новостей SSE-треда
 
++ Скульптор лиц RaceMenu теперь есть, но по умолчанию отключён, т.к. может конфликтовать с ENBSeries.
++ Открыт новый баг с лимитом числа объектов, подробнее на Реддите - https://www.reddit.com/r/skyrimmods/comments/ag4wm7/psa_the_reference_handle_cap_or_diagnosing_one_of/
+
+------
+
 **8-й день Утренней звезды** (8 января 2019):
 + Первый адекватный мод на вид тела от первого лица - https://www.nexusmods.com/skyrimspecialedition/mods/22306 - IFPV от meh321. Активно дорабатывается.
 + Исправлен баг с отражением света от кожи - включён в ENBSeries версии 0.370 и выше. Есть Non-ENB версия от aers - https://www.nexusmods.com/skyrimspecialedition/mods/22423
