@@ -44,6 +44,12 @@
 
 ------
 
+**OBIS - Organized Bandits In Skyrim**: добавляет множество абсолютно разных бандитов в Скайрим, у каждого свой уникальный дизайн, можно даже встретить различные кланы. Есть возможность включить дополнительные спавны в МСМ.
+
+[OBIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/4145)
+
+------
+
 **RS Children Overhaul** или **The Kids Are Alright**: изменяют внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | [The Kids Are Alright](https://www.nexusmods.com/skyrimspecialedition/mods/9175)
