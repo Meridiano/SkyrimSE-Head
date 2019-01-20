@@ -32,6 +32,12 @@
 
 ------
 
+**Immersive World Encounters**: добавляет 70 случайных встреч и еще 16 событий, связанных с миром. Также затрагивает некоторые ванильные эвенты. Мод полностью озвучен, играть очень интересно, особенно если ты ходишь пешком. Есть меню в MCM.
+
+[Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)
+
+------
+
 **RS Children Overhaul** или **The Kids Are Alright**: изменяют внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | [The Kids Are Alright](https://www.nexusmods.com/skyrimspecialedition/mods/9175)
