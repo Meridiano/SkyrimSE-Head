@@ -38,6 +38,12 @@
 
 ------
 
+**Тravellers of Skyrim - Travelers SSE**: добавляет 50 различных NPC, от торговцев до наёмников. Очень часто их можно встретить в трактирах, городах и вообще в мире.
+
+[Тravellers of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1973)
+
+------
+
 **RS Children Overhaul** или **The Kids Are Alright**: изменяют внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | [The Kids Are Alright](https://www.nexusmods.com/skyrimspecialedition/mods/9175)
