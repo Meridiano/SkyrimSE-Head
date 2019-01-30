@@ -1,7 +1,14 @@
 # Архив новостей SSE-треда
 
+**24-й день Утренней звезды** (24 января 2019):
++ Скульптор RaceMenu теперь работает с ENBSeries, Борис обновил ядро 0.370 без изменения версии.
++ "SSE Engine Fixes" включил в себя "Misc Fixes" и "Achievements Mods Enabler".
+
+------
+
+**17-й день Утренней звезды** (17 января 2019):
 + Скульптор лиц RaceMenu теперь есть, но по умолчанию отключён, т.к. может конфликтовать с ENBSeries.
-+ Открыт новый баг с лимитом числа объектов, подробнее на Реддите - https://www.reddit.com/r/skyrimmods/comments/ag4wm7/psa_the_reference_handle_cap_or_diagnosing_one_of/
++ Открыт новый баг с лимитом числа объектов, подробнее на Реддите - https://www.reddit.com/r/skyrimmods/comments/ag4wm7/psa_the_reference_handle_cap_or_diagnosing_one_of
 
 ------
 
@@ -52,7 +59,7 @@
 
 **7-й день Высокого солнца** (7 июля 2018):
 + Портированы "Customizable UI Replacer" и "(SKSE64) Havok Fix".
-+ Готовится к воссозданию "Enhanced Camera" - https://www.reddit.com/r/skyrimmods/comments/8v7wsl/the_time_has_come_im_putting_out_an_enhanced/e1sfu4g/
++ Готовится к воссозданию "Enhanced Camera" - https://www.reddit.com/r/skyrimmods/comments/8v7wsl/the_time_has_come_im_putting_out_an_enhanced/e1sfu4g
 + Создан "Stay At The System Page" - https://www.nexusmods.com/skyrimspecialedition/mods/18397 (механика клавиши ESC из Олдрима).
 + Запилены плащи на HDT-SMP - https://www.nexusmods.com/skyrimspecialedition/mods/17416
 + Споры об ОП-посте не утихают ни на день.
