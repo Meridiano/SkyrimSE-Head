@@ -1,9 +1,15 @@
 # Архив новостей SSE-треда
 
++ Новые шейдеры кожи и солнечных лучей - https://www.nexusmods.com/skyrimspecialedition/mods/23776
++ Портирован Deadly Dragons - https://www.nexusmods.com/skyrimspecialedition/mods/23723
+
+------
+
 **18-й день Восхода солнца** (18 февраля 2019):
 + ???
 
 ------
+
 **2-й день Восхода солнца** (2 февраля 2019):
 + ???
 
