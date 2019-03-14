@@ -1,7 +1,10 @@
 # Архив новостей SSE-треда
 
+**13-й день Первого зерна** (13 марта 2019):
+
 + Новые шейдеры кожи и солнечных лучей - https://www.nexusmods.com/skyrimspecialedition/mods/23776
 + Портирован Deadly Dragons - https://www.nexusmods.com/skyrimspecialedition/mods/23723
++ Обновилась игра и SKSE64 вслед за ней. Версии 1.5.73 и 2.0.13 соответственно.
 
 ------
 
