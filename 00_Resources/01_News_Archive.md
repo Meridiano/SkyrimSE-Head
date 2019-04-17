@@ -1,5 +1,12 @@
 # Архив новостей SSE-треда
 
+**30-й день Первого зерна** (30 марта 2019):
+
++ Портирован Archery Gameplay Overhaul - https://www.nexusmods.com/skyrimspecialedition/mods/24296
++ Fudgyduff продолжает пилить SKSE64-плагины - https://www.nexusmods.com/skyrimspecialedition/users/5687342?tab=user+files
+
+------
+
 **13-й день Первого зерна** (13 марта 2019):
 
 + Новые шейдеры кожи и солнечных лучей - https://www.nexusmods.com/skyrimspecialedition/mods/23776
