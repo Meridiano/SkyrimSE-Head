@@ -1,5 +1,13 @@
 # Архив новостей SSE-треда
 
+**20-й день Руки дождя** (20 апреля 2019):
+
++ Долгожданный Cathedral Weathers - https://www.nexusmods.com/skyrimspecialedition/mods/24791
++ Yes Im Sure - https://www.nexusmods.com/skyrimspecialedition/mods/24898
++ Первые намёки на параллакс - https://www.nexusmods.com/skyrimspecialedition/mods/24987
+
+------
+
 **30-й день Первого зерна** (30 марта 2019):
 
 + Портирован Archery Gameplay Overhaul - https://www.nexusmods.com/skyrimspecialedition/mods/24296
