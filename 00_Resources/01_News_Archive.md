@@ -1,5 +1,10 @@
 # Архив новостей SSE-треда
 
++ Cathedral Project продолжает своё развитие, много текстур, ещё больше планируется - https://www.nexusmods.com/skyrimspecialedition/users/50222836?tab=user+files
++ Михаил продолжает портировать своих монстров - https://www.nexusmods.com/skyrimspecialedition/users/37834630?tab=user+files
+
+------
+
 **10-й день Второго зерна** (10 мая 2019):
 
 + Mod Organizer 2 обновился до версии 2.2.0, добавлена экспериментальная функция парсинга BSA-архивов.
