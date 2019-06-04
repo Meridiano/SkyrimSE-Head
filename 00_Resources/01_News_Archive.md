@@ -1,5 +1,9 @@
 # Архив новостей SSE-треда
 
+------
+
+**4-й день Середины года** (4 июня 2019):
+
 + Cathedral Project продолжает своё развитие, много текстур, ещё больше планируется - https://www.nexusmods.com/skyrimspecialedition/users/50222836?tab=user+files
 + Михаил продолжает портировать своих монстров - https://www.nexusmods.com/skyrimspecialedition/users/37834630?tab=user+files
 
