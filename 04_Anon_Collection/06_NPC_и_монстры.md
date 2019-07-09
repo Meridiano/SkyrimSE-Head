@@ -136,7 +136,7 @@
 
 ------
 
-**Птицы** всех сортов и расцветок, LE-баги исправлены лично [steve40](https://www.nexusmods.com/skyrimspecialedition/users/3463396):
+**Птицы**: все сорта и расцветки пернатых, LE-баги исправлены лично [steve40](https://www.nexusmods.com/skyrimspecialedition/users/3463396).
 + [skyBirds](https://www.nexusmods.com/skyrimspecialedition/mods/2315)
 + [Birds of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3097)
 + [Birds and Flocks](https://www.nexusmods.com/skyrimspecialedition/mods/4063)
