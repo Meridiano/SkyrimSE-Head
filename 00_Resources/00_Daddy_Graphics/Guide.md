@@ -22,7 +22,7 @@
 4) https://www.nexusmods.com/skyrimspecialedition/mods/18247  
 3D ландшафт. От того же автора, что и 3D деревья.
 
-5) https://www.patreon.com/posts/link-to-dawns-20010623  
+5) [Link to Mystirious Dawn](https://mega.nz/#F!P8B2DKDL!ThFYR7QP0Av-HW1l9AQYRQ)  
 Моды от автора первого пункта. Нам тут нужен однозначно лишь "HQ Bark Overhaul", качаете, заходите в архив, в архиве нам нужен "4k Bark Textures 3D Trees".
 
 6) У автора 3 и 4 пункта смотришь другие моды на Нексусе, у него почти всё годнота (но не всё), однозначно советую "3D Rocks", остальное по вкусу, там в основном красивые мелочи.
