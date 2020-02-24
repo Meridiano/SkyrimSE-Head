@@ -27,10 +27,10 @@
 
 ## Трава
 
-7) A - https://www.nexusmods.com/skyrimspecialedition/mods/2296  
+7)  
+    + A - https://www.nexusmods.com/skyrimspecialedition/mods/2296  
 Основа. После установки найди "Verdant - A Skyrim Grass Plugin SSE Version.ini", там можно отрегулировать плотность травы, нужна строчка iMinGrassSize=60 - чем больше значение, тем меньше трава. И наоборот.
-
-7) B - https://www.nexusmods.com/skyrimspecialedition/mods/20662  
+    + B - https://www.nexusmods.com/skyrimspecialedition/mods/20662  
 Замена для основной травы, немного более короткий вариант, также содержит травы из других модов типа SFO. Ставь что-то одно, 7A или 7B. Короткий вариант более требователен по ряду причин.
 
 8) https://www.nexusmods.com/skyrimspecialedition/mods/14601  
