@@ -16,7 +16,7 @@
 3D деревья и растения. Просто основа чуть ли не всего, гениальный мод.
 
 4) https://www.nexusmods.com/skyrimspecialedition/mods/18247  
-3D ландшафт. От того же автора, что и 3D деревья. Имеет в комплекте текстуры ландшафта, их не надо ставить.
+3D ландшафт. От того же автора, что и 3D деревья. Имеет опциональные текстуры ландшафта (Skyrim 3D Landscapes Groundcovers), их не надо ставить.
 
 5) [Link to Mystirious Dawn](https://mega.nz/#F!P8B2DKDL!ThFYR7QP0Av-HW1l9AQYRQ)  
 Моды от автора первого пункта. Нам тут нужен однозначно лишь "HQ Bark Overhaul", качаете, заходите в архив, в архиве нам нужен "4k Bark Textures 3D Trees".
