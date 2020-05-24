@@ -9,7 +9,7 @@
 **24-й день Второго зерна** (24 мая 2020):
 
 + [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) - All-in-one решение для многих игроков, просто почитай его функционал, тебе понравится.
-+ ElSopa набирает обороты, много приятных глазу редизайнов интерфейса.
++ Автор [ElSopa](https://www.nexusmods.com/skyrimspecialedition/users/6960827?tab=user+files) набирает обороты, много приятных глазу редизайнов.
 
 ------
 
