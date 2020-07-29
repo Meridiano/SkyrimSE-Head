@@ -1,7 +1,7 @@
 # Архив новостей SSE-треда
 
 
-**5-й день Высокого солнца**
+**5-й день Высокого солнца** (5 июля 2020):
 
 + Новый релиз MO2 - [версия 2.3.0](https://www.reddit.com/r/skyrimmods/comments/hzrcwn/mod_organizer_230_public_release/).
 + ???
