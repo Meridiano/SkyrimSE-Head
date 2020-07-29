@@ -1,8 +1,19 @@
 # Архив новостей SSE-треда
 
+
+**5-й день Высокого солнца**
+
++ Новый релиз MO2 - [версия 2.3.0](https://www.reddit.com/r/skyrimmods/comments/hzrcwn/mod_organizer_230_public_release/).
 + ???
 + ???
-+ ???
+
+------
+
+**13-й день Середины года** (17 июня 2020):
+
++ Портирован [Modular Clothing System](https://www.nexusmods.com/skyrimspecialedition/mods/38692).
++ Неравнодушные делятся настройками для IFPV и "Improved Camera" - [IFPV INI-File](https://www.nexusmods.com/skyrimspecialedition/mods/38660) и [Improved Camera Custom INI](https://www.nexusmods.com/skyrimspecialedition/mods/38588).
++ Больше ретекстуров, спутников, оружия и прочего, как на SLE.
 
 ------
 
