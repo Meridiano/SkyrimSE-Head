@@ -1,11 +1,17 @@
 # Архив новостей SSE-треда
 
+**8-й день Последнего зерна** (8 августа 2020):
+
++ Новая версия WB - [Wrye Bash 307 Beta 7](https://www.nexusmods.com/skyrimspecialedition/mods/6837).
++ ???
++ ???
+
+------
 
 **5-й день Высокого солнца** (5 июля 2020):
 
 + Новый релиз MO2 - [версия 2.3.0](https://www.reddit.com/r/skyrimmods/comments/hzrcwn/mod_organizer_230_public_release/).
 + Новая версия SKSE64 - 2.0.19. Версия игры та же, просто пара фиксов и новых фич.
-+ ???
 
 ------
 
@@ -218,7 +224,7 @@
 ------
 
 **20-й день Утренней звезды** (20 января 2018):
-+ Форк Mod Organizer 2 обновился до версии 2.1.1 с кучей долгожеланных фиксов. Использовать лучше без инсталлятора, портабельный вариант. https://github.com/LePresidente/modorganizer/releases
++ Форк Mod Organizer 2 обновился до версии 2.1.1 с кучей долгожеланных фиксов. Использовать лучше без инсталлятора, portable-вариант. https://github.com/LePresidente/modorganizer/releases
 + Также обновился Wrye Bash до 307 Beta 2 (теперь с поддержкой ESL и нового формата сейвов). Многие жалуются на забагованность Bashed Patch при выборе слияния плагинов, так что если игра не загружается - экспериментируйте с опциями его создания. https://www.reddit.com/r/skyrimmods/comments/7lvzk9/wrye_bash_beta_2_released
 
 ------
