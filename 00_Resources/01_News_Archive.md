@@ -1,10 +1,17 @@
 # Архив новостей SSE-треда
 
+**22-й день Последнего зерна** (22 августа 2020):
+
++ Множество голосов ГГ для [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993) от [Kanjs](https://www.nexusmods.com/skyrimspecialedition/users/4685594?tab=user+files).
++ ???
++ ???
+
+------
+
 **8-й день Последнего зерна** (8 августа 2020):
 
 + Новая версия WB - [Wrye Bash 307 Beta 7](https://www.nexusmods.com/skyrimspecialedition/mods/6837).
 + Новая версия МО2 - 2.3.2, в основном только фиксы.
-+ ???
 
 ------
 
