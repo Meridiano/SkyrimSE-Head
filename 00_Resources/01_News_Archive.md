@@ -3,7 +3,7 @@
 **22-й день Последнего зерна** (22 августа 2020):
 
 + Множество голосов ГГ для [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993) от [Kanjs](https://www.nexusmods.com/skyrimspecialedition/users/4685594?tab=user+files).
-+ ???
++ [Vibrant weapons](https://www.nexusmods.com/skyrimspecialedition/mods/40087) обещает сделать красиво.
 + ???
 
 ------
