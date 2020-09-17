@@ -4,7 +4,7 @@
 
 + Множество голосов ГГ для [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993) от [Kanjs](https://www.nexusmods.com/skyrimspecialedition/users/4685594?tab=user+files).
 + [Vibrant weapons](https://www.nexusmods.com/skyrimspecialedition/mods/40087) обещает сделать красиво.
-+ ???
++ [SunHelm Survival And Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) обещает нормальные потребности. Снова.
 
 ------
 
