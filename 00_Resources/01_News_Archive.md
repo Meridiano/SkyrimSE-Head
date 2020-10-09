@@ -1,5 +1,11 @@
 # Архив новостей SSE-треда
 
+**17-й день Огня очага** (17 сентября 2020):
+
++ Заморозка архива на неопределённое время. Спасибо всем, кто "подсвечивал" в тредах скрытые шедевры среди модов и интересные новости.
+
+------
+
 **22-й день Последнего зерна** (22 августа 2020):
 
 + Множество голосов ГГ для [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993) от [Kanjs](https://www.nexusmods.com/skyrimspecialedition/users/4685594?tab=user+files).
