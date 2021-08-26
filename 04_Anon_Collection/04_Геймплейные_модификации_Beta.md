@@ -43,25 +43,19 @@
 | [Combat Evolved](https://www.nexusmods.com/skyrimspecialedition/mods/1525) | Простейший мод, который меняет лишь боевые стили NPC и игровые параметры. Без скриптов и настроек. | | |
 | [Vigor - Combat And Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/1876) | Качественный мод с системой ранений, можно настроить большинство фич. | | |
 | [Attack Commitment](https://www.nexusmods.com/skyrimspecialedition/mods/3325) | Режет трекинг атак, из-за которого в ванили невозможно увернуться от близкого удара. Изменения затрагивают не только NPC, но и главного героя. | | Замена мода Mortal Enemies. |
-| [A WIP guide to overhaul melee combat](https://www.nexusmods.com/skyrimspecialedition/mods/52495) | Не мод, а гайд, который расскажет, как приблизить бой в игре к стилю Dark Souls | | Не жди 100% результата. |
+| [A WIP guide to overhaul melee combat](https://www.nexusmods.com/skyrimspecialedition/mods/52495) | Не мод, а гайд, который расскажет, как приблизить бой в игре к стилю Dark Souls. | | Не жди 100% результата. |
 | [True Armor SE](https://www.nexusmods.com/skyrimspecialedition/mods/15921) | Более логичная система защиты брони, имеет множество настроек, есть пресеты. | | |
 | [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668) | Позволяет настраивать и отключать сцены добивания, группами и по отдельности, может сохранять пресеты настроек. | | Можешь обратить внимание и на [Heart Breaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) от этого же автора. |
+| [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Замена ASIS в плане раздачи NPC заклинаний, перков и вещей из модов (не только зелий). | | В разделе "Requirements" уже есть пара готовых пресетов настроек. |
 
 ## Приятные твики
 
 | Название | Коротко о моде | Перевод | Примечания |
 | :------- | :------------- | :------ | :--------- |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| [Simple Drop Lit Torches](https://www.nexusmods.com/skyrimspecialedition/mods/14490) | Улучшенное управление факелами с горячими клавишами и прочим. | | |
+| [Auto Hide Ammo](https://www.nexusmods.com/skyrimspecialedition/mods/1882) | Автоматическое снятие колчана со стрелами/болтами при снятии лука/арбалета, чтобы при экипировке мечей или секир колчаны не болтались сзади бесполезным хламом. | | Если ты привык к [Auto Unequip Ammo](https://www.nexusmods.com/skyrim/mods/10753), то он очень легко портируется. |
+| [Grimy Utilities SE](https://mega.nz/file/Ok4SFSBL#oCrbI3eKRDVAOQOp0XlEIrYxUM3glKr2CSNtQLVbRb8) | Набор полезных функций (горячие клавиши и всё в таком духе), конвертация от анона. | | |
+| [SkyTweak SE](https://mega.nz/file/KtxiVIZY#WB1CFM01wZCidtglaL0PmwFfI_1XJcbH289GmIU54WU) | Тонкая настройка огромного количества параметров игры, конвертация от анона. | | |
 
 ------
 
