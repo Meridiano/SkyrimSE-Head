@@ -22,17 +22,19 @@
 
 | Название | Коротко о моде | Перевод | Примечания |
 | :------- | :------------- | :------ | :--------- |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Даёт возможность альтернативного начала игры в качестве нового члена гильдии, владельца недвижимости, солдата и т.д. | [TA](https://tesall.ru/files/modi-dlya-skyrim/geimplei-i-izmeneniya/3902-alternativnii-start-zhivi-drugoi-zhiznyu) | Имеет местами спорные решения, начиная с обращения Мары к ГГ. |
+| [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) | Альтернатива AS:LAL, которая настраивается в МСМ - и очень тонко. | | Лучше подходит для отыгрыша не-Довакина. |
+| [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850/) | Позволяет отказаться от некоторых квестов, которые начинаются автоматически без оглядки на желание игрока. | | |
+| [AI Overhaul SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21654) | Делает поведение мирных жителей более реалистичным, вдобавок более совместим, чем Immersive Citizens. | | |
+| [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22075) | Откроет новые фразы у стражников и научит их уважать твои заслуги и титулы. | | |
+| [Relationship Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/1187) | Улучшает и расширяет диалоги NPC. | | |
+| [No NPC Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1044) | NPC не орут тебе через полквартала "привет", а главное, стражники больше не будут сообщать о стреле в коленке, едва завидев тебя на горизонте. | | |
+| [Carriage And Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) | Добавляет во все крупные населенные пункты Скайрима возчиков и/или лодочников, которых можно нанять за умеренную плату. | | Адекватная замена устаревшему Better Fast Travel. |
+| [Convenient Horses](https://www.nexusmods.com/skyrimspecialedition/mods/9519) | Делает обращение с лошадьми гораздо более удобным, расширенным и полезным. | | |
+| [All Geared Up Derivative](https://www.nexusmods.com/skyrimspecialedition/mods/28833) | Позволяет видеть на персонаже оружие, помеченное как избранное, а также различные предметы вроде Звезды Азуры и мешочков с монетами. | | |
+| [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049) | Двойные ножны, щиты и посохи за спиной, но без какой-либо генерации и ESP. | | |
+| [Cutting Room Floor](https://www.nexusmods.com/skyrimspecialedition/mods/276) | Восстановление вырезанного Беседкой контента. Катсцены, NPC, дома и квесты. | | |
+| [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) | Замена и добавление звуков на более иммерсивные, реалистичные и просто более качественные. | | |
 
 ## Боевая система
 
