@@ -12,7 +12,7 @@
 | [Skyrim Project Optimization](https://www.nexusmods.com/skyrimspecialedition/mods/14084) | Добавление во многие места особых зон рендеринга: если ГГ смотрит в одну сторону, объекты сзади него не отрисовываются. | [NM](https://www.nexusmods.com/skyrimspecialedition/mods/36586) | |
 | [Low Resolution Particles](https://www.nexusmods.com/skyrimspecialedition/mods/2388) | Уменьшение разрешения некоторых частиц типа падающих листьев и снежинок. | | |
 | [Simply Optimized Textures](https://www.nexusmods.com/skyrimspecialedition/mods/3858) | Если у вас слабый компьютер, используйте эти оптимизированные/уменьшенные текстуры для снижения расхода VRAM. | | |
-| [Performance Optimized Textures](https://www.nexusmods.com/skyrimspecialedition/mods/21166) | --/-- | | |
+| [Performance Optimized Textures](https://www.nexusmods.com/skyrimspecialedition/mods/21166) | 🠕 🠕 🠕 | | |
 | [Reduced Texture Size](https://www.nexusmods.com/skyrimspecialedition/mods/2865) | --/-- | | |
 | [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) | --/-- | | |
 | [No more Radial Blur](https://www.nexusmods.com/skyrimspecialedition/mods/1265) | Отключение дурацкого радиального размытия от разных эффектов. | | |
