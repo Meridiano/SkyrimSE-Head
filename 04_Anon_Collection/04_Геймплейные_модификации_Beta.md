@@ -40,17 +40,11 @@
 
 | Название | Коротко о моде | Перевод | Примечания |
 | :------- | :------------- | :------ | :--------- |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| [Combat Evolved](https://www.nexusmods.com/skyrimspecialedition/mods/1525) | Простейший мод, который меняет лишь боевые стили NPC и игровые параметры. Без скриптов и настроек. | | |
+| [Vigor - Combat And Injuries](https://www.nexusmods.com/skyrimspecialedition/mods/1876) | Качественный мод с системой ранений, можно настроить большинство фич. | | |
+| [Attack Commitment](https://www.nexusmods.com/skyrimspecialedition/mods/3325) | Режет трекинг атак, из-за которого в ванили невозможно увернуться от близкого удара. Изменения затрагивают не только NPC, но и главного героя. | | Замена мода Mortal Enemies. |
+| [True Armor SE](https://www.nexusmods.com/skyrimspecialedition/mods/15921) | Более логичная система защиты брони, имеет множество настроек, есть пресеты. | | |
+| [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668) | Позволяет настраивать и отключать сцены добивания, группами и по отдельности, может сохранять пресеты настроек. | | Можешь обратить внимание и на [Heart Breaker](https://www.nexusmods.com/skyrimspecialedition/mods/1847) от этого же автора. |
 
 ## Приятные твики
 
