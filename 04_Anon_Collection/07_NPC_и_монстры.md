@@ -27,6 +27,16 @@
 | [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755) | Ловушки больше не активируются вашими спутниками или призванными существами. | | |
 | [FollowerLivePackage](https://www.nexusmods.com/skyrim/mods/33002) | Мод для LE, но портируется без проблем. Расширяет действия спутников. | | |
 
+## Монстры и звери
+
+| Название | Коротко о моде | Перевод | Примечания |
+| :------- | :------------- | :------ | :--------- |
+| [Моды от Михаила Романова / MihailMods](https://www.nexusmods.com/skyrimspecialedition/users/37834630/?tab=user+files) | Большое количество совершенно разных монстров. | | |
+| [Моды от 4thUnknown](https://www.nexusmods.com/skyrimspecialedition/users/49002333?tab=user+files) | Очень качественные существа, которые автор делает для проекта SkyWind. | | |
+| [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) | Добавляет много вполне лорной живности на просторы Скайрима, улучшает поведение существующей. | | Может показаться устаревшим. |
+| [Animallica SE - Skyrim Wildlife Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/20456) | Не совсем монстры, а просто множество самых разных зверей - от барсуков до ныне вымерших гигантских оленей и даже носорогов. Очень приятное глазу разнообразие живности. | | |
+| [Wild World SE](https://www.nexusmods.com/skyrimspecialedition/mods/14616) | Улучшает поведение диких животных, создавая при этом минимум конфликтов. | | |
+
 ------
 
 |[*Назад к оглавлению*](../01_Оглавление.md)|
