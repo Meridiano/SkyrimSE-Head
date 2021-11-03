@@ -14,9 +14,6 @@
 7. Владельцы Skyrim SE гарантированно получат 3 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
 8. Skyrim AE не будет иметь отдельной страницы в Steam и скорее всего будет распространяться в виде бандла со Skyrim SE в основе. В него войдут все уже имеющиеся на данный момент моды Creation Club, а также 26 новых.
 9. Пока неизвестно, будут ли все бесплатные и полученные с AE моды Creation Club предустановленными или просто доступными для установки в магазине Creation Club.
-10. Наконец, намёк любителям лора и канона TES. Ни в одном своём анонсе, начиная с создания Creation Club, Bethesda не говорила, что "официальные" моды являются полноценной частью мира TES. После анонса Skyrim AE этот вопрос начал звучать снова и, наконец, был задан верифицированному сообществу [The Elder Scrolls Online](https://vk.com/eso). Как относиться к этому ответу - решать вам.
-
-![](https://i.imgur.com/tRi0L97.jpg)
 
 ------
 
