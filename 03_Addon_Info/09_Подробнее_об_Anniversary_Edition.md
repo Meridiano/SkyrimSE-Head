@@ -14,7 +14,7 @@
 6. Если обновление произошло, а бэкапа у вас нет, то вы всё равно можете даунгрейднуть EXE игры до версии 1.5.97. Подробная инструкция есть в [новости на NexusMods](https://www.nexusmods.com/skyrimspecialedition/news/14578), используйте поиск по странице: "downgrading to an earlier game version".
 7. Владельцы Skyrim SE гарантированно получат 4 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
 8. Skyrim AE не будет иметь отдельной страницы в Steam и будет распространяться в виде DLC для Skyrim SE. В него войдут все уже имеющиеся на данный момент моды Creation Club, а также 26 новых.
-9. Все бесплатные и полученные с AE моды Creation Club загружаются в главном меню игры после установки обновления.
+9. Все бесплатные моды CC будут просто доступны в магазине, а полученные с AE - загружены в главном меню игры после установки обновления.
 
 ------
 
