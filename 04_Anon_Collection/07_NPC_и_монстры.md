@@ -23,7 +23,7 @@
 | Название | Коротко о моде | Перевод | Примечания |
 | :------- | :------------- | :------ | :--------- |
 | [Extensible Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/7003) | Одна из лучших переработок системы компаньонов. С этим модом ты сможешь повлиять на их стиль боя, экипировку, поведение, прописку и многое другое. В наличии возможность нанять 100 тел и управлять ими непосредственно во время боя. | | |
-| [Nether's Follower Framework](https://www.patreon.com/nethermods) | Альтернатива EFF, отличается в основном тем, что поддерживается автором. | | Отсутствует на Нексусе из-за драмы 2021 года. |
+| [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Альтернатива EFF, отличается в основном тем, что поддерживается автором. | | |
 | [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755) | Ловушки больше не активируются вашими спутниками или призванными существами. | | |
 | [FollowerLivePackage](https://www.nexusmods.com/skyrim/mods/33002) | Мод для LE, но портируется без проблем. Расширяет действия спутников. | | |
 
