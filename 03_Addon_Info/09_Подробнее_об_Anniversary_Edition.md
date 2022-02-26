@@ -11,7 +11,10 @@
     + Завершите работу Steam, найдите файл "appmanifest_489830.acf" в папке "steamapps" в библиотеке Steam и переименуйте его в "appmanifest_489830.acf.backup". После запуска Steam больше не станет обновлять игру, но время в ней и даже достижения будут засчитываться как обычно.
     + В дальнейшем запускайте игру только через ярлык SKSE64 в мод-менеджере.
 5. Если вы не уверены, что сможете избежать автоматического обновления, то создайте бэкап своей папки Skyrim SE, благо что она не такая объёмная, ведь все моды находятся в системе MO2. После обновления просто верните все файлы на место.
-6. Если обновление произошло, а бэкапа у вас нет, то вы всё равно можете даунгрейднуть EXE игры до версии 1.5.97. Подробная инструкция есть в [новости на NexusMods](https://www.nexusmods.com/skyrimspecialedition/news/14578), используйте поиск по странице: "downgrading to an earlier game version".
+6. Если обновление произошло, а бэкапа у вас нет, то вы всё равно можете даунгрейднуть EXE игры до версии 1.5.97. У вас есть 3 варианта действий на выбор:
+    + Используйте [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618).
+    + Используйте [Downloader](https://www.nexusmods.com/skyrimspecialedition/mods/61756).
+    + Скопируйте в корневую папку игры [бинарные файлы версии 1.5.97](https://mega.nz/file/rhpixBAL#SyiSp9rFKgTP73oDMf56-SNt6g3EXE15vPvHXioFGe8) и удалите оттуда файл bink2w64.dll.
 7. Самый крайний, но не менее рабочий способ: после установки Skyrim AE закинуть в папку игры [бинарные файлы версии 1.5.97](https://mega.nz/file/rhpixBAL#SyiSp9rFKgTP73oDMf56-SNt6g3EXE15vPvHXioFGe8) и удалить bink2w64.dll.
 8. Владельцы Skyrim SE гарантированно получили 4 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
 9. Skyrim AE не имеет отдельной страницы в Steam и распространяется в виде DLC для Skyrim SE. В него вошли все уже имеющиеся на данный момент моды Creation Club, а также 26 новых, всего 74 мода.
