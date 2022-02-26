@@ -15,10 +15,9 @@
     + Используйте [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618).
     + Используйте [Downloader](https://www.nexusmods.com/skyrimspecialedition/mods/61756).
     + Скопируйте в корневую папку игры [бинарные файлы версии 1.5.97](https://mega.nz/file/rhpixBAL#SyiSp9rFKgTP73oDMf56-SNt6g3EXE15vPvHXioFGe8) и удалите оттуда файл bink2w64.dll.
-7. Самый крайний, но не менее рабочий способ: после установки Skyrim AE закинуть в папку игры [бинарные файлы версии 1.5.97](https://mega.nz/file/rhpixBAL#SyiSp9rFKgTP73oDMf56-SNt6g3EXE15vPvHXioFGe8) и удалить bink2w64.dll.
-8. Владельцы Skyrim SE гарантированно получили 4 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
-9. Skyrim AE не имеет отдельной страницы в Steam и распространяется в виде DLC для Skyrim SE. В него вошли все уже имеющиеся на данный момент моды Creation Club, а также 26 новых, всего 74 мода.
-10. Все бесплатные моды CC скачиваются из Steam при обновлении, а полученные с AE - загружаются в главном меню игры после установки обновления.
+7. Владельцы Skyrim SE гарантированно получили 4 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
+8. Skyrim AE не имеет отдельной страницы в Steam и распространяется в виде DLC для Skyrim SE. В него вошли все уже имеющиеся на данный момент моды Creation Club, а также 26 новых, всего 74 мода.
+9. Все бесплатные моды CC скачиваются из Steam при обновлении, а полученные с AE - загружаются в главном меню игры после установки обновления.
 
 ------
 
