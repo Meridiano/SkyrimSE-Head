@@ -16,7 +16,7 @@
     + Используйте [Downloader](https://www.nexusmods.com/skyrimspecialedition/mods/61756).
     + Скопируйте в корневую папку игры [бинарные файлы версии 1.5.97](https://link.meridiano-web.com/sse:1597-bin) и удалите оттуда файл bink2w64.dll.
 7. Владельцы Skyrim SE гарантированно получили 4 мода Creation Club - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode), [Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) и [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing).
-8. Skyrim AE не имеет отдельной страницы в Steam и распространяется в виде DLC для Skyrim SE. В него вошли все уже имеющиеся на данный момент моды Creation Club, а также 26 новых, всего 74 мода.
+8. Skyrim AE не имеет отдельной страницы в Steam и распространяется в виде DLC для Skyrim SE. В него вошли все уже имеющиеся на данный момент моды Creation Club, а также 26 новых, всего 74 мода. Если вы не хотите или не можете купить этот пакет, можете [скачать его бесплатно](https://link.meridiano-web.com/mega:share) (папка "Skyrim Creation Club").
 9. Все бесплатные моды Creation Club скачиваются из Steam при обновлении, а полученные с AE - загружаются в главном меню игры после установки обновления. Если у вас куплено это издание, но вы не хотите иметь в своей сборке все 74 мода, используйте [Steamless](https://github.com/atom0s/Steamless) на файле SkyrimSE.exe. После обработки игра не сможет узнать, куплено ли у вас AE, и не станет загружать отсутствующий контент при запуске.
 
 ------
